@@ -7,6 +7,6 @@ class Dog
     puts "#{@this_dog}"
   end
 
-
+name
 
 end
