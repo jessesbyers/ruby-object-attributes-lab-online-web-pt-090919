@@ -3,14 +3,13 @@ class Dog
     @name = name
   end
 
-
   def name=(name)
     @name = name
   end
 
-    #
-    # def name
-    # @this_dog
-    # end
+
+  def name
+    @name
+  end
 
 end
